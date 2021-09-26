@@ -1,0 +1,17 @@
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\WebApiPaises.deps.json
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\WebApiPaises.runtimeconfig.json
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\WebApiPaises.runtimeconfig.dev.json
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\WebApiPaises.dll
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.1\WebApiPaises.pdb
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.AssemblyInfoInputs.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.AssemblyInfo.cs
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.csproj.CoreCompileInputs.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.RazorAssemblyInfo.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.RazorAssemblyInfo.cs
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.RazorTargetAssemblyInfo.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.dll
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.pdb
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.genruntimeconfig.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.1\WebApiPaises.csprojAssemblyReference.cache
